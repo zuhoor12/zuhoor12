@@ -17,7 +17,7 @@
 ## $ whoami
 
 ```yaml
-name     : Ali Zuhoot Bayat
+name     : Ali Zuhoor Bayat
 handle   : @zuhoor12
 company  : MostionKit
 location : Afghanistan 🇦🇫
