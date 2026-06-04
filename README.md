@@ -110,12 +110,18 @@ status   : Always learning 🌱
   <tr>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=figma" width="48"/><br/><sub>Figma</sub></td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=github" width="48"/><br/><sub>GitHub</sub></td>
-    <td align="center" width="100"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/48px-ChatGPT_logo.svg.png" width="48"/><br/><sub>ChatGPT</sub></td>
+      <td align="center" width="100">
+    <img src="https://cdn.simpleicons.org/openai/ffffff" width="48"/><br/>
+    <sub>ChatGPT</sub>
+  </td>
     <td align="center" width="100"><img src="https://avatars.githubusercontent.com/u/121283862?s=48" width="48"/><br/><sub>Cursor AI</sub></td>
   </tr>
     <tr>
     <td align="center" width="100"><img src="https://n8n.io/favicon.ico" width="48"/><br/><sub>n8n</sub></td>
-    <td align="center" width="100"><img src="https://motion.dev/favicon.ico" width="48"/><br/><sub>Motion Library</sub></td>
+      <td align="center" width="100">
+    <img src="https://cdn.simpleicons.org/framer/0055FF" width="48"/><br/>
+    <sub>Motion</sub>
+  </td>
   </tr>
 </table>
 
