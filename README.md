@@ -38,9 +38,8 @@ Role     : Front-end Developer
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zuhoor12&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zuhoor12&layout=compact&theme=github_dark&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=zuhoor12&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuhoor12&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="165"/>
 
 </div>
 
@@ -50,7 +49,7 @@ Role     : Front-end Developer
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=zuhoor12&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=zuhoor12&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 
 </div>
 
@@ -60,7 +59,7 @@ Role     : Front-end Developer
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zuhoor12&theme=github-compact&hide_border=true&color=58a6ff&line=58a6ff&point=3fb950)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zuhoor12&theme=github-compact&hide_border=true&color=58a6ff&line=58a6ff&point=3fb950)](https://github.com/zuhoor12)
 
 </div>
 
@@ -72,6 +71,7 @@ Role     : Front-end Developer
 |---|---|---|
 | [⚡ FlashFlow](https://github.com/zuhoor12/FlashFlow) | Vocabulary builder · Spaced Repetition System | JavaScript |
 | [🔐 cryptography-practice-v1](https://github.com/zuhoor12/cryptography-practice-v1) | Python CLI · encryption & decryption | Python |
+| [🕊️ Peace-Justice-webSite](https://github.com/zuhoor12/Peace-Justice-webSite) | Peace & Justice awareness website | HTML/CSS |
 | [🔗 Shortening-Link-Website](https://github.com/zuhoor12/Shortening-Link-Website) | Responsive URL shortener UI | HTML/CSS |
 | [🏗️ Manage-Landing-Page](https://github.com/zuhoor12/Manage-Landing-Page) | Frontend Mentor challenge · landing page | CSS |
 | [🌐 huddle-landing-page](https://github.com/zuhoor12/huddle-landing-page) | Huddle landing page clone | CSS |
