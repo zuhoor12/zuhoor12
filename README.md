@@ -113,6 +113,10 @@ status   : Always learning 🌱
     <td align="center" width="100"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/48px-ChatGPT_logo.svg.png" width="48"/><br/><sub>ChatGPT</sub></td>
     <td align="center" width="100"><img src="https://avatars.githubusercontent.com/u/121283862?s=48" width="48"/><br/><sub>Cursor AI</sub></td>
   </tr>
+    <tr>
+    <td align="center" width="100"><img src="https://n8n.io/favicon.ico" width="48"/><br/><sub>n8n</sub></td>
+    <td align="center" width="100"><img src="https://motion.dev/favicon.ico" width="48"/><br/><sub>Motion Library</sub></td>
+  </tr>
 </table>
 
 </div>
