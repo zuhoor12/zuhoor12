@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=200&section=header&text=Ali%20Zuhoot%20Bayat&fontSize=40&fontColor=e6edf3&fontAlignY=38&desc=Front-end%20Developer%20%F0%9F%87%A6%F0%9F%87%AB%20Afghanistan&descAlignY=58&descSize=16&descColor=8b949e&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=200&section=header&text=Ali%20Zuhoor%20Bayat&fontSize=40&fontColor=e6edf3&fontAlignY=38&desc=Front-end%20Developer%20%F0%9F%87%A6%F0%9F%87%AB%20Afghanistan&descAlignY=58&descSize=16&descColor=8b949e&animation=fadeIn"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=50&lines=I+build+things+for+the+web+%F0%9F%8C%90;Clean+code.+Clean+UI.+%E2%9C%A8;Always+learning%2C+always+shipping+%F0%9F%9A%80;React+%7C+Tailwind+%7C+JavaScript+%7C+Python)](https://git.io/typing-svg)
 
