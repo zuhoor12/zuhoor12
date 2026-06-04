@@ -159,7 +159,7 @@ status   : Always learning 🌱
 ## 🌐 Connect
 
 <div align="center">
-[![Linkedin](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=dark)](https://www.linkedin.com/in/ali-zuhoor-bayat-814304218/)
+[![Linkedin](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.linkedin.com/in/ali-zuhoor-bayat-814304218/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/zuhoorTurk)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr_bayat_oghlo/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+9chwn3QycSZjMDc1)
