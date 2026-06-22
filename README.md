@@ -52,11 +52,6 @@ status   : Always learning 🌱
     <td><b>60%</b></td>
   </tr>
   <tr>
-    <td><b>🩵 React</b></td>
-    <td><img src="https://progress-bar.xyz/50?title=&width=280&color=61dafb&suffix=%"/></td>
-    <td><b>50%</b></td>
-  </tr>
-  <tr>
     <td><b>🟩 Tailwind CSS</b></td>
     <td><img src="https://progress-bar.xyz/45?title=&width=280&color=38b2ac&suffix=%"/></td>
     <td><b>45%</b></td>
@@ -66,12 +61,7 @@ status   : Always learning 🌱
     <td><img src="https://progress-bar.xyz/55?title=&width=280&color=a371f7&suffix=%"/></td>
     <td><b>55%</b></td>
   </tr>
-  <tr>
-    <td><b>⚙️ n8n</b></td>
-    <td><img src="https://progress-bar.xyz/55?title=&width=280&color=ef6c35&suffix=%"/></td>
-    <td><b>55%</b></td>
-  </tr>
-  <tr>
+<tr>
     <td><b>🎨 Figma</b></td>
     <td><img src="https://progress-bar.xyz/50?title=&width=280&color=f24e1e&suffix=%"/></td>
     <td><b>50%</b></td>
@@ -99,7 +89,6 @@ status   : Always learning 🌱
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=html" width="48"/><br/><sub>HTML5</sub></td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=css" width="48"/><br/><sub>CSS3</sub></td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=js" width="48"/><br/><sub>JavaScript</sub></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=react" width="48"/><br/><sub>React</sub></td>
   </tr>
   <tr>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br/><sub>Tailwind CSS</sub></td>
